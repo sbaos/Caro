@@ -4,3 +4,5 @@ When it’s their turn, they must pick up the first chess piece they placed and 
 
 
 #here is some adjust
+
+I modify some information so what it will act.
