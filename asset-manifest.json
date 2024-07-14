@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Caro/static/css/main.fba830a4.css",
+    "main.js": "/Caro/static/js/main.472b9e6f.js",
+    "static/js/453.bcb0a624.chunk.js": "/Caro/static/js/453.bcb0a624.chunk.js",
+    "index.html": "/Caro/index.html",
+    "main.fba830a4.css.map": "/Caro/static/css/main.fba830a4.css.map",
+    "main.472b9e6f.js.map": "/Caro/static/js/main.472b9e6f.js.map",
+    "453.bcb0a624.chunk.js.map": "/Caro/static/js/453.bcb0a624.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fba830a4.css",
+    "static/js/main.472b9e6f.js"
+  ]
+}
